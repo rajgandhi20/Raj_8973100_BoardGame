@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\assingment-2_raj\assingment-2_raj\obj\Debug\net8.0\assingment-2_raj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\assingment-2_raj\assingment-2_raj\obj\Debug\net8.0\assingment-2_raj.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\assingment-2_raj\assingment-2_raj\obj\Debug\net8.0\assingment-2_raj.AssemblyInfo.cs
+C:\Users\Dell\source\repos\assingment-2_raj\assingment-2_raj\obj\Debug\net8.0\assingment-2_raj.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\assingment-2_raj\assingment-2_raj\bin\Debug\net8.0\assingment-2_raj.exe
+C:\Users\Dell\source\repos\assingment-2_raj\assingment-2_raj\bin\Debug\net8.0\assingment-2_raj.deps.json
+C:\Users\Dell\source\repos\assingment-2_raj\assingment-2_raj\bin\Debug\net8.0\assingment-2_raj.runtimeconfig.json
+C:\Users\Dell\source\repos\assingment-2_raj\assingment-2_raj\bin\Debug\net8.0\assingment-2_raj.dll
+C:\Users\Dell\source\repos\assingment-2_raj\assingment-2_raj\bin\Debug\net8.0\assingment-2_raj.pdb
+C:\Users\Dell\source\repos\assingment-2_raj\assingment-2_raj\obj\Debug\net8.0\assingment-2_raj.dll
+C:\Users\Dell\source\repos\assingment-2_raj\assingment-2_raj\obj\Debug\net8.0\refint\assingment-2_raj.dll
+C:\Users\Dell\source\repos\assingment-2_raj\assingment-2_raj\obj\Debug\net8.0\assingment-2_raj.pdb
+C:\Users\Dell\source\repos\assingment-2_raj\assingment-2_raj\obj\Debug\net8.0\assingment-2_raj.genruntimeconfig.cache
+C:\Users\Dell\source\repos\assingment-2_raj\assingment-2_raj\obj\Debug\net8.0\ref\assingment-2_raj.dll

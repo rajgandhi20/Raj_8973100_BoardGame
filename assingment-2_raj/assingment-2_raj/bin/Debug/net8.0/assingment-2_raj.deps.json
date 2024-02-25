@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "assingment-2_raj/1.0.0": {
+        "runtime": {
+          "assingment-2_raj.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "assingment-2_raj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
